@@ -1,3 +1,3 @@
 # Prediction Module 
-pipeline ( corealtion heatmaps, one-hot encoding, temporal analysis)
+pipeline (corealtion heatmaps, one-hot encoding, temporal analysis)
  
