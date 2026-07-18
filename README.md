@@ -1,3 +1,3 @@
 # Prediction Module  
-pipeline (preproceessing, corealtion heatmaps, one-hot encoding, temporal analysis)
+pipeline (preproceessing, multi modal analysis, corealtion heatmaps, one-hot encoding, temporal analysis)
  
