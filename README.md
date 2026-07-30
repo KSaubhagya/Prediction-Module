@@ -1,3 +1,3 @@
 # Performance and Prediction Module
-pipeline (preproceessing, multi modal analysis, corealtion heatmaps, temporal analysis)
+pipeline (preproceessing, multi modal analysis, corealtion heatmaps, temporal analysis )
  
